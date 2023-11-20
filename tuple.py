@@ -20,5 +20,5 @@ t = tuple(interest)
 print(t)
 
 print("----------------------------------------------------------------")
-my_tuple = tuple(range(2, 100, 2))
+my_tuple = tuple(range(2, 100, 2)) # 세번째 인자는 증가량
 print(my_tuple)
